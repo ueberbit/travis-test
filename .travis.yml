@@ -6,3 +6,4 @@ php:
 script:
   - ls -lsa ~/.composer
   - cat ~/.composer/config.json
+  - echo "."
